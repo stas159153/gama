@@ -1,0 +1,12 @@
+.fan{
+    display: flex;
+    background-color:yellow ;
+    margin: auto;
+    width: 150px;
+    border-radius: 15px;
+    justify-content: space-evenly;
+    padding: 10px 15px;
+}
+.fantom{
+    color: white;
+}
